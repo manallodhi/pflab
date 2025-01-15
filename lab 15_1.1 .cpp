@@ -7,5 +7,5 @@ int add(int a, int b){
 int main(){
     int result = add(5,7);
     cout << "sum = " << result << endl ;
-    return 0;
+    return 0; // indicate successfil execution
 }
