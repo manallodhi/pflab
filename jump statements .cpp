@@ -15,9 +15,29 @@ int checkEvenOdd(int num){
 int main() {
 
   int num = 6 ;
-  if(0)
+  if(checkEvenOdd(num))
     cout << num << " is even " << endl ;
    else
         cout << num << " is odd " << endl ;
    return 0;
   }
+
+  /* int main() {
+
+  int num = 6 ;
+  if(0)
+    cout << num << " is even " << endl ;
+   else
+        cout << num << " is odd " << endl ;
+   return 0;
+  } */
+
+  /* int main() {
+
+  int num = 6 ;
+  if(1)
+    cout << num << " is even " << endl ;
+   else
+        cout << num << " is odd " << endl ;
+   return 0;
+  } */
